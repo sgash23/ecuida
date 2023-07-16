@@ -1,0 +1,159 @@
+*{
+  margin: 0px;
+}
+.contenedor{
+  margin: 0px;
+  margin-bottom: 0px;
+  font-family: 'Roboto', sans-serif;
+}
+
+
+
+/*imagen de presentacion*/
+
+.seccionImagen{
+  width: 100%;
+
+}
+
+/*contenido*/
+.titulo{
+  text-align: center;
+  color: #e6ae81;
+  
+}
+.tituloInicio{
+  font-size: 55px;
+  font-weight: 900px;
+  
+}
+hr {
+  height: 10px;
+  width: 20%;
+  background-color: #819ee6;
+  border-color: #003caf;
+  margin-left: 40%;
+  margin-right: 25%;
+}
+.seccion1{
+  margin: 30px;
+  font-weight: 900;
+}
+.contSeccion{
+  display: flex;
+  height: 300px;
+  margin: 30px;
+  padding: 10px;
+
+}
+.seccion-1{
+  text-align: center;
+  color: #ffffff;
+  margin: 40px;
+  width: 50%;
+  background-color: #819ee6;
+  border-radius: 20px;
+  box-shadow: 2px 2px 10px #4e81ff;
+}
+.seccion-2{
+  text-align: center;
+  color: #ffffff;
+  margin: 40px;
+  width: 50%;
+  background-color: #819ee6;
+  border-radius: 20px;
+  box-shadow: 2px 2px 10px #4e81ff;
+}
+h3{
+  margin: 40px;  
+}
+.boton {
+  border: 1px solid #2e518b; /*anchura, estilo y color borde*/
+  margin-top: 20px;
+  padding: 15px; /*espacio alrededor texto*/
+  background-color: #4e81ff; /*color botón*/
+  color: #ffffff; /*color texto*/
+  text-decoration: none; /*decoración texto*/
+  text-transform: uppercase; /*capitalización texto*/
+  border-radius: 50px; /*bordes redondos*/
+} 
+.boton:hover{
+  background-color: #ffffff;
+  color:#4e81ff
+}
+
+/*   SECCION PORQUE ELEGIR ECUIDA  */
+.elegir{
+  height: 300px;
+  text-align: center;
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-bottom: 20px;
+  display: flex;
+}
+.item-e{
+  margin: 5px;
+  margin-top: 40px;
+}
+.img-e{
+  width: 150px;
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+}
+
+
+/*   SECCION COMO TE AYUDAMOS  */
+.seccion2{
+  margin: 60px;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+.teAyudamos{
+  display: flex;
+  height: 600px;
+  margin-left: 22%;
+  margin-right: 22%;
+}
+.item-a{
+  margin: 5px;
+  margin-top: 40px;
+}
+.img-a{
+  width: 350px;
+  height: 350px;
+  justify-content: center;
+}
+.titulo-teAyudamos{
+  text-align: center;
+  margin: 20px;
+  color: #4e81ff; 
+}
+.origen{
+  text-align: center;
+  
+}
+
+/* Introducción */
+.countainer{
+  height: 300px;
+  margin: 60px;
+  margin-left: 25%;
+  margin-right: 30%;
+  background-color: #819ee6;
+}
+.left-image img{
+  box-shadow: 4px 4px 10px #999;
+  width: 500px;
+  height: 300px;
+}
+.right-content{
+  color:aliceblue;
+}
+.introduccion .right-content h2 {
+	font-size: 36px;
+	font-weight: 600;
+	margin-bottom: 15px;
+}
+

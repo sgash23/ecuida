@@ -1,0 +1,25 @@
+.row{
+    margin: 0px !important;
+  }
+  .sup{
+    background-color: #749DFF;
+    color:#ffffff;
+    margin: 0px; 
+  }
+  .pfooter{
+    color: #ffffff; 
+  }
+  
+  li{
+    color: #ffffff; 
+  }
+  
+  a:link, a:visited, a:active{
+  
+    text-decoration:none;
+  }
+  
+  
+  .d-flex:hover{
+    color:#054403;
+  }

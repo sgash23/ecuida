@@ -1,0 +1,24 @@
+.barra-nav {
+  display: flex;
+  justify-content: space-around;
+  background-color: #749DFF;
+  position: fixed;
+  width: 100%;
+  opacity: 0.9;
+  font-family: 'Roboto', sans-serif;
+}
+.img1  {
+  width: 130px;
+  height: 70px;
+}
+.me-auto {
+  justify-content: center;
+}
+.empleo{
+  margin-bottom: 10px;
+  color: rgb(6, 124, 228);
+  background-color: #ffffff;
+}
+.Nav.link:hover{
+  color:#054403
+}
